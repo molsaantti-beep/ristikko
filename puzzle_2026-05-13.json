@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-13",
+  "title": "Keskiviikon koitos",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "KAULA",
+    "URHEA",
+    "KAKUT",
+    "K#EKO",
+    "ORAAT"
+  ],
+  "acrossClues": [
+    "Pullossakin",
+    "Peloton",
+    "Leipurilta",
+    "Luomua",
+    "Kevätpelloissa"
+  ],
+  "downClues": [
+    "Joskus viinissäkin",
+    "Papukaija",
+    "Muodokas",
+    "Pään osa",
+    "Ennen juhlia"
+  ]
+}
