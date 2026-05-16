@@ -1,0 +1,64 @@
+{
+  "date": "2026-05-12",
+  "title": "Tiistain tavallinen",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "TESLA",
+    "OSMO#",
+    "K#ITA",
+    "ANTTI",
+    "JOHAN"
+  ],
+  "acrossClues": [
+    "Sähköautofirma",
+    "Soininvaara",
+    "Italian lentoyhtiö",
+    "Lindtman",
+    "Snellmannin ensimmäinen"
+  ],
+  "downClues": [
+    "Unkarin viinialue",
+    "Alkuaine einsteinium",
+    "Näyttelijä Will",
+    "Aituri Harala",
+    "\"- laulain työtäs tee..\"",
+    "\"- niin\""
+  ]
+}

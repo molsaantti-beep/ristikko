@@ -1,0 +1,62 @@
+{
+  "date": "2026-04-20",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "solutionGrid": [
+    "IKONI",
+    "LARIT",
+    "ILVES",
+    "UPOTE",
+    "MATO#"
+  ],
+  "acrossClues": [
+    "Kirkkotaidetta",
+    "Apinoita",
+    "Toinen Tampereelta",
+    "Sormuksessa",
+    "Mullassa"
+  ],
+  "downClues": [
+    "Suoliluu",
+    "Kuopiosta",
+    "Yksinäisiä",
+    "Johti Meksikoa",
+    "Peilissä"
+  ]
+}

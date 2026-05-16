@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-24",
+  "title": "Perjantaipähkinä! 🥳",
+  "size": 6,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "solutionGrid": [
+    "HALLEY",
+    "ALIE#D",
+    "STEPPI",
+    "ATRAIN",
+    "KIIRE#",
+    "A#TET#"
+  ],
+  "acrossClues": [
+    "Komeettamies",
+    "Tyttö",
+    "Tanssi",
+    "Monipäinen",
+    "Kantapäästä mieleen",
+    "Nuorille tuttua"
+  ],
+  "downClues": [
+    "Syyriassa",
+    "Juhlii myös tänään",
+    "Reunoja",
+    "Liuska",
+    "Luuta",
+    "Tervasta saatuja"
+  ]
+}

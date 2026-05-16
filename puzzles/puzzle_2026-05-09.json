@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-09",
+  "title": "Lauantaihulinat🥳",
+  "size": 6,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "HAAMUT",
+    "#LAAKI",
+    "PEPLUM",
+    "APOLLO",
+    "KA#II#",
+    "O#OTTO"
+  ],
+  "acrossClues": [
+    "Aaveita",
+    "Kuti",
+    "Koristehelma",
+    "Siivekäs avaruusohjelma",
+    "Kalium",
+    "Oulun naapuri",
+    "Palindromimies"
+  ],
+  "downClues": [
+    "Kauppaketju",
+    "Yksi veljeksistä",
+    "Esikuvia",
+    "Pöllöjä",
+    "Yksi veljeksistä",
+    "Vankilasta"
+  ]
+}

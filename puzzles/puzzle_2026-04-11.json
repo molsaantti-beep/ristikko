@@ -1,0 +1,80 @@
+{
+  "date": "2026-04-11",
+  "title": "💃Lauantai-illan huumaa! 🕺",
+  "size": 6,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "HUUME#",
+    "ATRIA#",
+    "JOHN#B",
+    "UPEETA",
+    "TIAARA",
+    "#A#TES"
+  ],
+  "acrossClues": [
+    "Aine",
+    "Nakista mieleen",
+    "Lauantai-illan huuman tähti",
+    "\"Mahtavaa!\"",
+    "Koristava",
+    "Sopimus tämäkin"
+  ],
+  "downClues": [
+    "Sukistakin",
+    "Haavetta vain",
+    "Peloton",
+    "Heillä juhlan aika tänään",
+    "Ensiapu",
+    "Urheilijamme Mette",
+    "Nääsville"
+  ]
+}

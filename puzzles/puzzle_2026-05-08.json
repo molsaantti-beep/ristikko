@@ -1,0 +1,99 @@
+{
+  "date": "2026-05-08",
+  "title": "Perjantaipähkinä! 🥳",
+  "size": 7,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      1
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ]
+  ],
+  "solutionGrid": [
+    "ENRIQUE",
+    "RAANU##",
+    "#PINERO",
+    "WASABIT",
+    "#TI#ESS",
+    "#TOSCA#",
+    "KUTI#T#"
+  ],
+  "acrossClues": [
+    "Latinotähti",
+    "Kudottu",
+    "Latinonimi",
+    "Tahnoja",
+    "Alkuaine",
+    "Lahdessa luettu",
+    "Makoisa Puccinin ooppera",
+    "Maaliin"
+  ],
+  "downClues": [
+    "Alkuaine",
+    "Valokuva",
+    "Loimujen kera",
+    "Nainen moneen suuntaan",
+    "Kanadaa",
+    "Viallisia",
+    "Laulaja",
+    "Alkuaine"
+  ]
+}

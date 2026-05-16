@@ -1,0 +1,62 @@
+{
+  "date": "2026-04-15",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "AVIOT",
+    "LINDA",
+    "ENKAT",
+    "ACKTE",
+    "#II#T"
+  ],
+  "acrossClues": [
+    "Liittoja",
+    "Nimipäiväsankari",
+    "\"Rikottavia\"",
+    "Ooppera-Aino",
+    "Lyhyt kunta"
+  ],
+  "downClues": [
+    "Heitettiin Roomassa",
+    "Renessanssineron loppua",
+    "Parahiihtäjä Inola",
+    "Piikkejä",
+    "Sharonin sukua"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-22",
+  "title": "Keskiviikon koitos",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "ALISA",
+    "LITIT",
+    "ITARA",
+    "ARLAT",
+    "SAOTA"
+  ],
+  "acrossClues": [
+    "Vainio",
+    "Ex-rahoja",
+    "Tarkka rahoistaan",
+    "Meijerityttöjä",
+    "Voi puurokin"
+  ],
+  "downClues": [
+    "Lautapeli",
+    "Mittana",
+    "-iskelmä",
+    "Naisten nimiä",
+    "Tongan saari"
+  ]
+}

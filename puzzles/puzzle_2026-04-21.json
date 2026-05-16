@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-21",
+  "title": "Tiistain tavallinen",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "ROOMA",
+    "ELIAS",
+    "MITRO",
+    "UOTIT",
+    "STINA"
+  ],
+  "acrossClues": [
+    "Seitsemän kukkulan kaupunki",
+    "Runomies",
+    "\"Eräs isä\"",
+    "Kari&Jussi",
+    "Ekblad"
+  ],
+  "downClues": [
+    "Suden kasvattama",
+    "Kummajaisia",
+    "Hämeessä",
+    "Pääministerinä",
+    "Koisuku"
+  ]
+}

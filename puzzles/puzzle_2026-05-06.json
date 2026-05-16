@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-06",
+  "title": "Puolimatkan krouvi",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "BLAIR",
+    "OAASI",
+    "RUMAT",
+    "IMURI",
+    "SAT#T"
+  ],
+  "acrossClues": [
+    "Brittien ex-pääministeri",
+    "Virkistävä paikka",
+    "Sanatkin joskus",
+    "Mielen tekemää",
+    "Tasotesti"
+  ],
+  "downClues": [
+    "Ex-presidentti",
+    "Eläimistä",
+    "Silmät avaavia",
+    "Joki",
+    "Taitoluisteluhyppyjä"
+  ]
+}

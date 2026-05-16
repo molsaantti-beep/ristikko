@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-03",
+  "title": "Sunnuntain ratoksi",
+  "size": 6,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "LINUS#",
+    "ANUBIS",
+    "KATUVA",
+    "ARINAT",
+    "NI#T#A",
+    "A##USA"
+  ],
+  "acrossClues": [
+    "Torvalds",
+    "Egyptin jumala",
+    "Syntinen",
+    "Uuneissa",
+    "Metalli",
+    "Länsimaa"
+  ],
+  "downClues": [
+    "Haamuvaate",
+    "Lappia",
+    "Sarveton",
+    "Käyttöjärjestelmä",
+    "Hindujumala",
+    "Voi kiitosta"
+  ]
+}

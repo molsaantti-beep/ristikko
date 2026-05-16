@@ -1,0 +1,80 @@
+{
+  "date": "2026-04-17",
+  "title": "On viikonloppu eessä taas..🥳",
+  "size": 6,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "HUMALA",
+    "I#AREA",
+    "SERVOT",
+    "SETI#R",
+    "IRTOAA",
+    "TAITOT"
+  ],
+  "acrossClues": [
+    "Köynnöskasvi",
+    "Oli osa Finnairia",
+    "Napanderin kera",
+    "Etsii elämää",
+    "Limakin",
+    "Lehdille"
+  ],
+  "downClues": [
+    "Kerrosten välisiä",
+    "Napanderin kera",
+    "Ennusteita",
+    "Jokela",
+    "Auroja",
+    "Aikakausi",
+    "Alla oleva"
+  ]
+}

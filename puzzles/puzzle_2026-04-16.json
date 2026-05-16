@@ -1,0 +1,62 @@
+{
+  "date": "2026-04-16",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      1,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "KEVÄT",
+    "URINA",
+    "SISIN",
+    "KEANE",
+    "I##ÄT"
+  ],
+  "acrossClues": [
+    "Aurinkoinen vuodenaikamme",
+    "Ääntelyä",
+    "Ydinosa",
+    "Jalkapalloillut Roy",
+    "@"
+  ],
+  "downClues": [
+    "Ajuri",
+    "Suuri järvi",
+    "Luottomies",
+    "Valitus",
+    "Netta miehiksi"
+  ]
+}

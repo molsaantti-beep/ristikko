@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-04",
+  "title": "Paluu arkeen",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "solutionGrid": [
+    "ROOSA",
+    "ULOTA",
+    "SANAT",
+    "KAASI",
+    "OTTI#"
+  ],
+  "acrossClues": [
+    "Juhlii tänään",
+    "Törröttää",
+    "Syötäviä nämäkin",
+    "Ankkalinnassa",
+    "Syönti"
+  ],
+  "downClues": [
+    "Värikästä",
+    "Pohjissa",
+    "Tyttöjä",
+    "Itä-Saksassa",
+    "Vanha miehen nimi"
+  ]
+}

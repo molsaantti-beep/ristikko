@@ -1,0 +1,64 @@
+{
+  "date": "2026-05-05",
+  "title": "Tiistain tavallinen",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "KARPO",
+    "ORION",
+    "RIKE#",
+    "ENO#A",
+    "AASIT"
+  ],
+  "acrossClues": [
+    "Asiallinen",
+    "Loistaa",
+    "Erehdys",
+    "Pelastusliivejä tarvitseva?",
+    "Kaviollisia"
+  ],
+  "downClues": [
+    "Viehkeä valtio",
+    "Pohjalla",
+    "Rangaistuksen kanssa",
+    "Edgar Allan",
+    "Sveitsiläinen urheilubrändi",
+    "Sähköpostissa"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "date": "2026-04-26",
+  "title": "Sunnuntain ratoksi",
+  "size": 6,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      1,
+      1
+    ]
+  ],
+  "solutionGrid": [
+    "TERESA",
+    "ATERIN",
+    "PALKKA",
+    "ANAKIN",
+    "NATAN#",
+    "ITA###"
+  ],
+  "acrossClues": [
+    "Äiti",
+    "Haarukka",
+    "-sotilas",
+    "Luken isä",
+    "Profeetta",
+    "Lentoyhtiö"
+  ],
+  "downClues": [
+    "Joulun mies",
+    "Herkkua nämäkin",
+    "Ottaa iisisti",
+    "Westerlund",
+    "Sokinin kanssa",
+    "Japanissa"
+  ]
+}

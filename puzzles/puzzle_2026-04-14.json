@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-14",
+  "title": "Paluu arkeen",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "BERIT",
+    "ALEPA",
+    "MISSI",
+    "BOSET",
+    "UTU#O"
+  ],
+  "acrossClues": [
+    "Laulajatar",
+    "Kauppaketju",
+    "Kuuselakin",
+    "Kuulokkeita",
+    "Auer"
+  ],
+  "downClues": [
+    "Maistuu karhulle",
+    "Lahjomaton",
+    "Jaskan kaveri",
+    "Latinan itse",
+    "Juhlii tänään"
+  ]
+}

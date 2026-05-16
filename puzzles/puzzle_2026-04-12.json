@@ -1,0 +1,80 @@
+{
+  "date": "2026-04-12",
+  "title": "Sunnuntain ratoksi",
+  "size": 6,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "VOSTOK",
+    "ALAI#U",
+    "JEHU#U",
+    "OMA#O#",
+    "JURIT#",
+    "ASASEL"
+  ],
+  "acrossClues": [
+    "Lensi avaruudessa",
+    "Vuoristo",
+    "Kiho",
+    "Ostettu",
+    "Avaruussankarin kaimoja",
+    "Paha henki"
+  ],
+  "downClues": [
+    "Kopit",
+    "Ilmiasu",
+    "Karua seutua",
+    "Munamitta",
+    "Kiertävä",
+    "Tatsi",
+    "Suomen suurin uutismedia"
+  ]
+}

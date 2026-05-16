@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-07",
+  "title": "Torstai toivoa täynnä",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "solutionGrid": [
+    "HELMI",
+    "ALIAS",
+    "NÄTIT",
+    "NIINA",
+    "ANTE#"
+  ],
+  "acrossClues": [
+    "Siallekin",
+    "Lautapeli",
+    "Iloja silmille",
+    "Lahtinen",
+    "Ennen latinassa"
+  ],
+  "downClues": [
+    "Öberg",
+    "-kunta",
+    "Jarin nimisiä",
+    "Kiirivä osavaltio?",
+    "Näytteli"
+  ]
+}

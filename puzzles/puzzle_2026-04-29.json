@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-29",
+  "title": "Keskiviikon keitos",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "TEIJO",
+    "YKSI#",
+    "KOLIT",
+    "OLARI",
+    "#AMIA"
+  ],
+  "acrossClues": [
+    "Juhlii tänään",
+    "Lukusana",
+    "Bakteereita",
+    "Espoossa",
+    "Kala"
+  ],
+  "downClues": [
+    "Sallinen",
+    "Villihevosista mieleen",
+    "Oppi",
+    "Viistosauma",
+    "Carrere"
+  ]
+}

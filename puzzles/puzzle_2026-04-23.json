@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-23",
+  "title": "Torstai toivoa täynnä",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "KIRJA",
+    "LEUAT",
+    "INUVA",
+    "M#SAR",
+    "TAUTI"
+  ],
+  "acrossClues": [
+    "Tätäkin juhlitaan tänään",
+    "Jykeviä",
+    "Valittava",
+    "Rialin valuuttakoodi",
+    "Sukeltajalla omansa"
+  ],
+  "downClues": [
+    "Maalari Gustav",
+    "Taskullinen",
+    "Tätäkin juhlitaan tänään",
+    "Kieliä nämäkin",
+    "Pelialan pioneeri"
+  ]
+}

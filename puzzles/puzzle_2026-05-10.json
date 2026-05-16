@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-10",
+  "title": "Hyvää äitienpäivää!",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "ÄIDIT",
+    "#TASE",
+    "RAATI",
+    "ARMAN",
+    "MAITI"
+  ],
+  "acrossClues": [
+    "Juhlivat tänään",
+    "Kirjanpitäjän laatima",
+    "Tuomaristo",
+    "Alizad",
+    "Kalasta"
+  ],
+  "downClues": [
+    "Kitsas",
+    "Lady",
+    "Tean sukua",
+    "Kasvuvaiheessa",
+    "Tietokoneen muistia"
+  ]
+}

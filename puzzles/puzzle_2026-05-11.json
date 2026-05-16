@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-11",
+  "title": "Paluu arkeen",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "solutionGrid": [
+    "APILA",
+    "PII#R",
+    "IHRAT",
+    "NIILO",
+    "ATTE#"
+  ],
+  "acrossClues": [
+    "Irlannin symboli",
+    "Alkuaine",
+    "Läskejä",
+    "Hiihtäjä Moilanen",
+    "Marraskuun mies"
+  ],
+  "downClues": [
+    "Kädellinen",
+    "Saitoja",
+    "Irlannissa puhuttuja",
+    "Nyberg",
+    "Tarjous"
+  ]
+}

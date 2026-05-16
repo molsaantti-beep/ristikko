@@ -1,0 +1,101 @@
+{
+  "date": "2026-05-01",
+  "title": "Vappu! 🥳",
+  "size": 7,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "TYÖVÄET",
+    "YO#EELI",
+    "ÖL#TSIN",
+    "AARI#PT",
+    "SKUMPPA",
+    "UITETUT",
+    "#TATU#A"
+  ],
+  "acrossClues": [
+    "Hekin juhlivat tänään",
+    "Hän juhlii myös",
+    "Tolvanen",
+    "Ruotsin olutta",
+    "Ammoinen dynastia",
+    "Maata",
+    "Kuntosaleilta tuttu",
+    "Vappujuomaa tämäkin",
+    "Märkiä",
+    "Patun kaveri"
+  ],
+  "downClues": [
+    "Haalarikin",
+    "Vappuasuja",
+    "Tamineet",
+    "Muokkain",
+    "Verkkokaupasta",
+    "Täräyttää",
+    "Kasvisuku",
+    "Voimansiirtoyksikkö"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-28",
+  "title": "Tiistain tavallinen",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "MULTA",
+    "AJAA#",
+    "TOPPI",
+    "O#IIK",
+    "TUOTE"
+  ],
+  "acrossClues": [
+    "Kukalle",
+    "Autoilla",
+    "Yläosa",
+    "Pelästyneeltä",
+    "Kaupasta"
+  ],
+  "downClues": [
+    "Lentäviäkin?",
+    "Kääpiö",
+    "Kakulle",
+    "Liitoksiin",
+    "Hiihtäjämme Melnits"
+  ]
+}

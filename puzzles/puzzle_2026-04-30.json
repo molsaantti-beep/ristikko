@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-30",
+  "title": "Vappuaatto! 🥳",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "SIMAT",
+    "ALAVA",
+    "AMMAN",
+    "MAINE",
+    "E#STT"
+  ],
+  "acrossClues": [
+    "Vappu-",
+    "Matalaa",
+    "Jordaniassa",
+    "USA:n osa",
+    "Uutisista tuttu"
+  ],
+  "downClues": [
+    "Puhuttua",
+    "-pallo",
+    "Jänishousu",
+    "-garde",
+    "Netta miehiksi"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-27",
+  "title": "Paluu arkeen",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "MARJA",
+    "ELIAS",
+    "ETSOT",
+    "AISTI",
+    "#SA#N"
+  ],
+  "acrossClues": [
+    "Makoisa tyttö",
+    "Sammatin mies",
+    "Hakemiset",
+    "Tunto",
+    "\"Intti\""
+  ],
+  "downClues": [
+    "Juhlii tänään",
+    "Avulias",
+    "Väkipyörä",
+    "Usein ennen pelejä",
+    "Jalalle"
+  ]
+}

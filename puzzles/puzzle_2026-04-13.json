@@ -1,0 +1,64 @@
+{
+  "date": "2026-04-13",
+  "title": "Paluu arkeen",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "TIGER",
+    "ASETE",
+    "MARLI",
+    "MIDAS",
+    "IT#TI"
+  ],
+  "acrossClues": [
+    "Golf-tähti",
+    "Vekseli",
+    "Mehukas",
+    "Kultasormi",
+    "Kauhuleffa",
+    "Titaani"
+  ],
+  "downClues": [
+    "Lautapeli",
+    "Daavidin isän kaimoja",
+    "Futislegenda",
+    "Tutkimuslaitoksia",
+    "Kehoa"
+  ]
+}

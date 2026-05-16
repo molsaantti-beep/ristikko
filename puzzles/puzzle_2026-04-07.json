@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-07",
+  "title": "Tiistain tavallinen",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "HUTHI",
+    "ORION",
+    "PATIT",
+    "OMATI",
+    "TANOT"
+  ],
+  "acrossClues": [
+    "Kapinallisryhmä",
+    "Tähti",
+    "Paiseet",
+    "Puhutaan Papua-Uusi-Guineassa",
+    "Päähineet"
+  ],
+  "downClues": [
+    "Hessun sukua",
+    "Rauli",
+    "Saturnuksen kuu",
+    "Sairaalan työtä",
+    "Armeijat"
+  ]
+}

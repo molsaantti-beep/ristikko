@@ -1,0 +1,82 @@
+{
+  "date": "2026-05-02",
+  "title": "Lauantaipähkinä",
+  "size": 6,
+  "blocks": [
+    [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "#PAALI",
+    "ÄESTYS",
+    "KLAANI",
+    "ÄT#KD#",
+    "TOUKOT",
+    "Ä#SINI"
+  ],
+  "acrossClues": [
+    "Heinistä",
+    "Maataloustyötä",
+    "Yhteisö",
+    "@",
+    "Puolue",
+    "Kevätmiehiä",
+    "Siivoojatyttö"
+  ],
+  "downClues": [
+    "Viljalle",
+    "Rap-artisti",
+    "Sotatoimi",
+    "Kennedyn jälkeen",
+    "Vanhempi",
+    "Kekata",
+    "-open",
+    "Metalli"
+  ]
+}
