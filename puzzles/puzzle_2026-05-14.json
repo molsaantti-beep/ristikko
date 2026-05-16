@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-14",
+  "title": "Helatorstai!",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "PÄIVÄ",
+    "YLLÄS",
+    "HYVIS",
+    "Ä#ETÄ",
+    "#ISET"
+  ],
+  "acrossClues": [
+    "Torstaikin",
+    "-tunturi",
+    "\"sankari\"",
+    "-työ",
+    "Joki Venäjällä"
+  ],
+  "downClues": [
+    "-tunturi",
+    "Päässä joillakin",
+    "Tampereen liigapeto",
+    "Usein perusteltu",
+    "Korttipakoissa"
+  ]
+}

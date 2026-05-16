@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-15",
+  "title": "Perjantaipähkinä!🥳",
+  "size": 6,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "BARKOV",
+    "O#EELI",
+    "SAMULI",
+    "TUURIT",
+    "OK#U#T",
+    "NIKU#A"
+  ],
+  "acrossClues": [
+    "Floridan tähti Sasha",
+    "Tolvanen",
+    "Edelmann",
+    "Onnet",
+    "Selvä!",
+    "Jääkiekkoilija Sami"
+  ],
+  "downClues": [
+    "Bruinsin kotikaupunki",
+    "Aaltonen",
+    "KeuPa:n kotikaupunki",
+    "Määttä",
+    "Sankareille usein tarjolla",
+    "Lukitsematon"
+  ]
+}

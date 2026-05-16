@@ -1,0 +1,81 @@
+{
+  "date": "2026-05-16",
+  "title": "Lauantaihulinat!🥳",
+  "size": 6,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      1,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "VIISUT",
+    "ILME#N",
+    "KOALAT",
+    "MIGIT#",
+    "ATOMIT",
+    "NAT#KV"
+  ],
+  "acrossClues": [
+    "Näitäkin tänä viikonloppuna jännätään",
+    "Kasvoilla",
+    "Karhuja nämäkin",
+    "Hävittäjiä",
+    "Hiukkasia",
+    "King Cole",
+    "Kansainvälinen"
+  ],
+  "downClues": [
+    "Suomea edustanut v.2025",
+    "Hurrata",
+    "Maineet",
+    "Palmgren",
+    "Räjähtävää",
+    "Ismail",
+    "Ruudullinen"
+  ]
+}
