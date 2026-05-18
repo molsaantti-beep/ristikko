@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-17",
+  "title": "Sunnuntain ratoksi",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "DARA#",
+    "RIISI",
+    "ALIEN",
+    "MATIT",
+    "ATENA"
+  ],
+  "acrossClues": [
+    "Tämän vuoden viisuvoittaja",
+    "Mittakin",
+    "Elokuvasarja",
+    "Voittoja",
+    "Kustantamo"
+  ],
+  "downClues": [
+    "- queen",
+    "Naisia",
+    "Jäinen",
+    "Jahti",
+    "Kansainvälinen tavaramerkkiyhdistys"
+  ]
+}

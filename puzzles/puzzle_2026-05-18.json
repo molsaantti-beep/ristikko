@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-18",
+  "title": "Kisat jatkuvat! 🏒",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      1,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "solutionGrid": [
+    "AS#O#",
+    "KOIVU",
+    "ILVES",
+    "TAALA",
+    "ATRA#"
+  ],
+  "acrossClues": [
+    "Alkuaine",
+    "Leijonien entinen kapteeni",
+    "Suomen mestari v.1985",
+    "NHL-ammattilaiselle",
+    "Muokkain"
+  ],
+  "downClues": [
+    "Koirarotu",
+    "Väyliä",
+    "Ruotsin joukkueen Stenberg",
+    "Pelintekijäkin?",
+    "MM-kisojen voittaja v.2025"
+  ]
+}

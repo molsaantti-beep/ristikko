@@ -1,0 +1,64 @@
+{
+  "date": "2026-05-19",
+  "title": "Tiistain tavallinen",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "DAVOS",
+    "AIOLI",
+    "KALI#",
+    "AIVOT",
+    "R#OTE"
+  ],
+  "acrossClues": [
+    "Sveitsiä",
+    "Kastike",
+    "Hindujen jumalatar",
+    "Elin",
+    "Kynästä"
+  ],
+  "downClues": [
+    "Rallipaikka",
+    "Puoliapina",
+    "Markkanen",
+    "Kummallisia",
+    "Alkuaine",
+    "- toimisto"
+  ]
+}
