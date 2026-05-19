@@ -1,0 +1,63 @@
+{
+  "date": "2026-05-20",
+  "title": "Keskiviikon koitos",
+  "size": 5,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0
+    ]
+  ],
+  "solutionGrid": [
+    "LEXUS",
+    "OGELI",
+    "RONIT",
+    "DRONE",
+    "I#NAN"
+  ],
+  "acrossClues": [
+    "Auto",
+    "\"Oulunkylä\"",
+    "Poikia",
+    "Nykyään usein uutisissa",
+    "Nestlen tuotemerkki"
+  ],
+  "downClues": [
+    "Viisuvoittaja v.2006",
+    "Idän mies",
+    "Alkuaine",
+    "Ääntä",
+    "Mallin mukaan"
+  ]
+}
