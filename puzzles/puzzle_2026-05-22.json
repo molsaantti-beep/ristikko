@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-22",
+  "title": "Perjantaipähkinä!🥳",
+  "size": 6,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "solutionGrid": [
+    "ARTHUR",
+    "SURINA",
+    "TUOLIT",
+    "MALLAT",
+    "ATLAS#",
+    "T#ITU#"
+  ],
+  "acrossClues": [
+    "Sherlockin takana",
+    "Kesän ääni",
+    "Nelijalkaisia",
+    "Naisia",
+    "Vuoristo",
+    "Siemenestä"
+  ],
+  "downClues": [
+    "Ahdistavia",
+    "Nautittuja",
+    "Häirikkö",
+    "Marjoja",
+    "Nukkujalla",
+    "Kasaribändi"
+  ]
+}
