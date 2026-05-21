@@ -1,0 +1,81 @@
+{
+  "date": "2026-05-23",
+  "title": "Lauantaipähkinä!🥳",
+  "size": 6,
+  "blocks": [
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  ],
+  "solutionGrid": [
+    "LYYDIA",
+    "AS#AHA",
+    "ITALO#",
+    "VÄLTTI",
+    "AVIO#I",
+    "TÄNNE#"
+  ],
+  "acrossClues": [
+    "Antiikin valtio",
+    "Alkuaine",
+    "Norjalaisyhtye",
+    "-disco",
+    "Kääntöaura",
+    "-onni",
+    "Suunta"
+  ],
+  "downClues": [
+    "Kyntäviä nämäkin",
+    "Läheinen",
+    "Lucky Lukelle tuttu",
+    "Elimiä",
+    "-kerho",
+    "Pohjakerros",
+    "Kunta"
+  ]
+}
